@@ -1,3 +1,3 @@
-# .gitignore
+# .gitignores
 .env
 node_modules/
